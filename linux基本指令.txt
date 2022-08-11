@@ -1,0 +1,13 @@
+二、第二种方法：
+
+（1）按ESC
+
+（2）输入   ：set noreadonly
+
+（3）输入    ：wq就可保存退出
+
+
+
+linux查看jdk安装路径
+
+方法1：使用echo $JAVA_HOME
