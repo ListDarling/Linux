@@ -1,0 +1,2 @@
+ git remote add origin ssh://chenwolong@Ip地址:29418/~chenwolong/WuAnManager/WuAnManager.git
+ git push -u origin master

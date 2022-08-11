@@ -1,0 +1,21 @@
+git init 
+git add .
+git commit -m 'first commit'
+git remote add origin 你的远程仓储地址
+git push -u origin master
+
+如果失败了，
+1、查看远程仓储地址是否正确
+git remote -v
+2、查看用户名
+git config user.name
+git config user.email
+3、如果用户没有权限，则使用Admin来操作
+git config --global user.name "Your_username"
+4、设置下邮箱
+git config --global user.email "Your_email"
+5、更换到Admin的远程仓储地址
+--删除
+git remote rm origin
+--添加
+git remote add origin 你的远程仓储地址

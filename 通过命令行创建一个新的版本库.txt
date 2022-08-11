@@ -1,0 +1,6 @@
+ touch README.md
+    git init
+    git add README.md
+    git commit -m "first commit"
+    git remote add origin ssh://chenwolong@IP地址:29418/~chenwolong/Manager/Manager.git
+    git push -u origin master

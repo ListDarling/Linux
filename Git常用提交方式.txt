@@ -1,0 +1,6 @@
+1. cd到项目目录
+2.git status 查看文件状态
+3.git add .  提交的文件的信息添加到索引库中
+4.git status 查看文件状态
+5.$ git commit -m "add Other.java and Test.java"
+6.$ git push https://github.com/ListDarling/Linux.git 即可提交项目
